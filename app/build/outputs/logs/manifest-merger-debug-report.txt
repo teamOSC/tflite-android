@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/33bf83d0d9b1fd4c88f5c687a2a85fbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3ae663da00565c291ead486359c95924/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a6d648e008ee8dd2381e1a5ae7127eb9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/94c34ca9639bdec859e84a26073ca3ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/562c384a695aab0cf5bb5f2e3e63cac4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e619dc4a2211b071e05ab31708ddb519/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/de4c27c9442e31acffb35b75ec50af5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b476c350974afdeaa8b3d10015e76636/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/76b0edd3c06f6f409f2ced8ae740f91c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/29edad303f5297c85ab02e1fc0adfca5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/29b4b440dafea27d85cdcd9c34a33bae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a3bf6d0a5448205bb22047e037c82b8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b3bf160960d56603b17b1333718f8b0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/adae2cfc6e4c7dfba86801a337a598c3/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:1.10.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.10.0.aar/f6615c2c075da9de405a2df2efdae7c5/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4a88bf5249ef0744cc3acda4d295054d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/519c3597a41adb4380dcec534b5e42ec/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/08dc371a786e81978659875ef54eb1fd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f9378819fc57908748f9536fbb0fc2ab/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a6d648e008ee8dd2381e1a5ae7127eb9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a6d648e008ee8dd2381e1a5ae7127eb9/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.10.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.10.0.aar/f6615c2c075da9de405a2df2efdae7c5/AndroidManifest.xml:4:5-5:19
+MERGED from [org.tensorflow:tensorflow-lite:1.10.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.10.0.aar/f6615c2c075da9de405a2df2efdae7c5/AndroidManifest.xml:4:5-5:19
+	android:label
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/33bf83d0d9b1fd4c88f5c687a2a85fbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/33bf83d0d9b1fd4c88f5c687a2a85fbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3ae663da00565c291ead486359c95924/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3ae663da00565c291ead486359c95924/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a6d648e008ee8dd2381e1a5ae7127eb9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a6d648e008ee8dd2381e1a5ae7127eb9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/94c34ca9639bdec859e84a26073ca3ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/94c34ca9639bdec859e84a26073ca3ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/562c384a695aab0cf5bb5f2e3e63cac4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/562c384a695aab0cf5bb5f2e3e63cac4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e619dc4a2211b071e05ab31708ddb519/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e619dc4a2211b071e05ab31708ddb519/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/de4c27c9442e31acffb35b75ec50af5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/de4c27c9442e31acffb35b75ec50af5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b476c350974afdeaa8b3d10015e76636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b476c350974afdeaa8b3d10015e76636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/76b0edd3c06f6f409f2ced8ae740f91c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/76b0edd3c06f6f409f2ced8ae740f91c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/29edad303f5297c85ab02e1fc0adfca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/29edad303f5297c85ab02e1fc0adfca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/29b4b440dafea27d85cdcd9c34a33bae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/29b4b440dafea27d85cdcd9c34a33bae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a3bf6d0a5448205bb22047e037c82b8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a3bf6d0a5448205bb22047e037c82b8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b3bf160960d56603b17b1333718f8b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b3bf160960d56603b17b1333718f8b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/adae2cfc6e4c7dfba86801a337a598c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/adae2cfc6e4c7dfba86801a337a598c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4a88bf5249ef0744cc3acda4d295054d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4a88bf5249ef0744cc3acda4d295054d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/519c3597a41adb4380dcec534b5e42ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/519c3597a41adb4380dcec534b5e42ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/08dc371a786e81978659875ef54eb1fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/08dc371a786e81978659875ef54eb1fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f9378819fc57908748f9536fbb0fc2ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/championswimmer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f9378819fc57908748f9536fbb0fc2ab/AndroidManifest.xml:20:5-44
+INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/championswimmer/Development/Hackathon/HackInOut_2018/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE
